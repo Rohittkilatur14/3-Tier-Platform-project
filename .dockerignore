@@ -26,6 +26,9 @@ Documentation.md
 ############################
 node_modules
 **/node_modules
+.git
+client/node_modules
+server/node_modules
 npm-debug.log
 yarn-debug.log
 yarn-error.log
